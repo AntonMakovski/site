@@ -1,0 +1,61 @@
+html{
+ background-color: rgb(255,210,168);  
+}
+
+h1.header_title{
+   color: white;
+   font-family: cursive;
+   align-self: right;
+}
+
+div{
+   vertical-align: middle;
+}
+
+span.header_button_not { 
+   color: White;
+   background-color: rgb(155,110,68);
+   font-family: cursive;
+   position: relative;
+   padding: 7px 20px 10px;
+   text-align: center;
+   width: 60px;
+   border-radius: 15%;
+}
+
+a{
+   text-decoration: none;
+}
+
+span.header_button_now { 
+   color: White;
+   background-color: rgb(180,135,93);
+   font-family: cursive;
+   position: relative;
+   padding: 7px 20px 10px;
+   text-align: center;
+   width: 60px;
+   border-radius: 15%;
+}
+
+img{
+   width: 500px;
+   border-radius: 20%;
+}
+span.column{
+   width: 50%;
+}
+div.f{
+   display: flex;
+}
+
+p.contacts{
+   color: White;
+   font-family: cursive;
+   font-size: 400%;
+}
+
+p.coment{
+   background-color: rgb(255,225,183);
+   font-family: serif;
+}
